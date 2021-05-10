@@ -52,6 +52,7 @@ export default {};
   padding: 1rem 3rem;
   font-weight: bold;
   font-size: 1.7rem;
+  font-family: "Signika", sans-serif;
 }
 .nav-items {
   padding: 1rem 2rem;

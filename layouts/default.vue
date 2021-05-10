@@ -55,7 +55,7 @@ html {
 }
 
 .main-wrapper {
-  padding-top: 10rem;
+  padding-top: 7rem;
   margin: 0 auto;
 }
 @media screen and (max-width: 1024px) {

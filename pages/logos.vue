@@ -80,8 +80,8 @@ export default {
   methods: {
     showModal(i) {
       this.modalImg = images[i].path;
-      this.modalOpened = true;
       this.modalDescription = images[i].description;
+      this.modalOpened = true;
     },
     closeModal() {
       this.modalOpened = false;
@@ -94,6 +94,10 @@ export default {
 </script>
 
 <style scoped lang="scss">
+::selection {
+  color: none;
+  background: none;
+}
 .container-logos {
   padding-bottom: 6rem;
   text-align: center;
