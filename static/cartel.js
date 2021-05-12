@@ -67,10 +67,6 @@ const images = [
     description: "Campaña para producto helado de yogur"
   },
   {
-    path: require("~/static/img/cartel/725-anys-calp-cartel.jpg"),
-    description: "Cartel conmemorativo de la fundación de la villa medieval"
-  },
-  {
     path: require("~/static/img/cartel/greciatono-corregido.jpg"),
     description:
       "Imagen gráfica para la exposición sobre la antigua Grecia. Marq – British Museum"
@@ -79,6 +75,11 @@ const images = [
     path: require("~/static/img/cartel/arrozymar-foto.jpg"),
     description: "Cartel para proyecto de Jornadas gastronómicas"
   },
+  {
+    path: require("~/static/img/cartel/725-anys-calp-cartel.jpg"),
+    description: "Cartel conmemorativo de la fundación de la villa medieval"
+  },
+
   {
     path: require("~/static/img/cartel/cartel-dinos.jpg"),
     description: "Imagen para proyecto de exposición"

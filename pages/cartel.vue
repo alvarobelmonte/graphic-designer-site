@@ -150,11 +150,10 @@ img {
 }
 .grid-container {
   margin: 0 auto;
-  width: 25%;
+  width: 35%;
 
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: repeat(9, 1fr);
+  grid-template-columns: repeat(24, 1fr);
   grid-gap: 0.2rem;
 }
 
@@ -230,7 +229,7 @@ img {
     grid-column: span 6;
   }
   &--15 {
-    grid-row: span 2;
+    grid-row: span 1;
     grid-column: span 6;
   }
   &--16 {
@@ -238,16 +237,16 @@ img {
     grid-column: span 6;
   }
   &--17 {
-    grid-row: span 1;
+    grid-row: span 2;
     grid-column: span 6;
   }
   &--18 {
-    grid-row: span 2;
-    grid-column: span 12;
+    grid-row: span 1;
+    grid-column: span 18;
   }
   &--19 {
-    grid-row: span 2;
-    grid-column: span 12;
+    grid-row: span 1;
+    grid-column: span 18;
   }
   &--20 {
     grid-row: span 1;
@@ -267,11 +266,11 @@ img {
   }
   &--24 {
     grid-row: span 1;
-    grid-column: span 6;
+    grid-column: span 12;
   }
   &--25 {
     grid-row: span 1;
-    grid-column: span 6;
+    grid-column: span 12;
   }
   &--26 {
     grid-row: span 1;
@@ -289,13 +288,9 @@ img {
     grid-row: span 1;
     grid-column: span 6;
   }
-  &--29 {
-    grid-row: span 1;
-    grid-column: span 6;
-  }
   &--30 {
     grid-row: span 1;
-    grid-column: span 12;
+    grid-column: span 24;
   }
   &--31 {
     grid-row: span 1;

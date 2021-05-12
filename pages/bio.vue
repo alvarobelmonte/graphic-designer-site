@@ -2,13 +2,17 @@
   <main class="container">
     <PageTitle title="BIO" />
     <p
-      class="mb-4"
+      class="mb-2"
     >Licenciado en Bellas Artes por la Universidad Politécnica de Valencia. Especialidad de dibujo/diseño</p>
-    <ul class="m-6">
-      <li>2009-20 - profesor de diseño gráfico en Escuelas de Arte de Castilla La Mancha</li>
-      <li>1995-09 - diseñador gráfico en el estudio de diseño Cota Cero. Alicante</li>
-      <li>1992-95 - director de arte en la agencia F&C. Albacete</li>
-      <li>1990-92 - director de arte en la agencia Grupo Barro CDP. Madrid</li>
+    <ul class="mt-2 mb-6">
+      <li>2009-20</li>
+      <li>Profesor de diseño gráfico en Escuelas de Arte de Castilla La Mancha</li>
+      <li>1995-09</li>
+      <li>Diseñador gráfico en el estudio de diseño Cota Cero. Alicante</li>
+      <li>1992-95</li>
+      <li>Director de arte en la agencia F&C. Albacete</li>
+      <li>1990-92</li>
+      <li>Director de arte en la agencia Grupo Barro CDP. Madrid</li>
     </ul>
     <h2>Premios y publicaciones</h2>
     <ul class="m-6">

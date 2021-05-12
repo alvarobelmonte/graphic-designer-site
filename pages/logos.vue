@@ -108,7 +108,7 @@ img {
 }
 .grid-container {
   margin: 0 auto;
-  width: 50%;
+  width: 35%;
 
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
